@@ -1,2 +1,2 @@
-# BMI_calculator
-Projeto para finalizar o segundo módulo da Formação Flutter Specialist - DIO
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
